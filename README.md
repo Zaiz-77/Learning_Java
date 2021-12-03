@@ -1,2 +1,3 @@
 # Learning_Java
-学习java过程中的笔记和日常训练
+## 记录本人学习Java语言中的笔记
+## 如有建议请联系KandQwangkai@163.com
